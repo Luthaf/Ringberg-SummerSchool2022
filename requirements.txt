@@ -1,0 +1,7 @@
+jupyter
+ase
+
+chemiscope
+skcosmo
+--extra-index-url https://luthaf.fr/temporary-wheels/
+rascaline
